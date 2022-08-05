@@ -11,7 +11,7 @@
 
 ![Git](https://img.shields.io/badge/Git-1f1f1f??style=for-the-badge&logo=git)
 ![Webpack](https://img.shields.io/badge/Webpack-1f1f1f??style=for-the-badge&logo=Webpack)
-![PhotoShop](https://img.shields.io/badge/PhotoShop-1f1f1f??style=for-the-badge&logo=adobephotoshop)
+![Photoshop](https://img.shields.io/badge/Photoshop-1f1f1f??style=for-the-badge&logo=adobephotoshop)
 ![Figma](https://img.shields.io/badge/Figma-1f1f1f??style=for-the-badge&logo=Figma)
 
 
