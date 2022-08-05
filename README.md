@@ -1,4 +1,4 @@
-[!Header](https://github.com/lllEvgeniy/lllEvgeniy/blob/main/assets/card.jpg)
+[!Header](./assets/card.jpg)
 
 about me
 
