@@ -1,4 +1,4 @@
-[!Header](./assets/card.jpg)
+![Header](./assets/card.jpg)
 
 about me
 
