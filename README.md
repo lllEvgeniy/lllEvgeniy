@@ -1,6 +1,6 @@
 ![Header](./assets/card.jpg)
 
-about me
+### Привет я начинающий Frontend Developer
 
 tools
 
