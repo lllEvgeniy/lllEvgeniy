@@ -23,4 +23,6 @@
 ### Мои контакты:
 
 [![Telegram](https://img.shields.io/badge/Telegram-1f1f1f??style=for-the-badge&logo=Telegram)](https://t.me/lPelmesh)
-[![Gmail](https://img.shields.io/badge/Gmail-1f1f1f??style=for-the-badge&logo=Gmail)](mailto:jakinss321@gmail.com/ "jakinss321@gmail.com")
+[![Gmail](https://img.shields.io/badge/mihievicevgenij@gmail.com-1f1f1f??style=for-the-badge&logo=Gmail)](mailto:mihievicevghenij@gmail.com)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lllEvgeniy&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
