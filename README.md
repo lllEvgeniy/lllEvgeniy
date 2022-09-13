@@ -6,7 +6,7 @@
 ![HTML](https://img.shields.io/badge/HTML-1f1f1f??style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-1f1f1f??style=for-the-badge&logo=CSS3)
 ![JavaScript](https://img.shields.io/badge/JavaScript-1f1f1f??style=for-the-badge&logo=JavaScript)
-![React](https://img.shields.io/badge/react-1f1f1f??style=for-the-badge&logo=React)
+![React](https://img.shields.io/badge/React-1f1f1f??style=for-the-badge&logo=React)
 
 ### Я умею пользоваться:
 
